@@ -1,0 +1,399 @@
+---
+title: "The Green Fablab: Towards a distributed recycling paradigm"
+subtitle: "Engineering Connection Nov 4 / 2020"
+author: "**Fabio CRUZ**, Mauricio Camargo"
+institute: "ERPI <br/> Université de Lorraine "
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    #css: ["default", "assets/Fabio-fonts.css", "assets/Fabio.css"] "metropolis", "rladies-fonts",
+    css: ["default", "assets/Fabio.css", "assets/Fabio-fonts.css"]
+    lib_dir: libs
+    nature:
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      beforeInit: "assets/macros.js"
+---
+
+class: clear, center, middle
+
+# How  Innovation Labs to mitigate .brand-red[climate change]: academy-industry partnerships for success?
+
+???
+
+- Let's begin with the first global challegne, Climate change
+
+---
+
+class: middle, left
+background-image: url(Figures/IPCC-Climate-change.jpeg)
+background-position: right
+background-size: contain
+
+# Societal Challegue <br>  Climate change 
+
+
+---
+
+# Climate change 
+
+.left-column[.footnotesize[
+
+- Global warming estimations
+- 6000 scientific references
+- Awareness of the impact of human activity
+- With 2°C, many ecosystems (corals) will disappear
+- Limits to growth --> Earth's boundaries
+]]
+
+.right-column[
+.polaroid[ ![](Figures/IPCC-SPM-1.png) ]
+ 
+.footnote[Source: Intergovermental pannel on Climate change https://www.ipcc.ch/ ]
+
+]
+
+
+---
+class: middle, center
+
+# Can we continue in the same economic model ?
+
+---
+
+class: middle, left
+background-image: url(Figures/Emissions-by-sector.png)
+background-position: right
+background-size: contain
+
+
+## Where do global <br> greenhouse gas <br> emissions come from?
+
+- Towards a neutral climate 
+
+- Improvements in sector sector counts
+
+
+---
+## We need to reframe a new model!  `r icon::fa("exclamation-triangle", pull = "right")`
+
+![linear-economy](Figures/linear-economy.png)
+
+---
+
+class: middle, left
+
+## Intensive research on what could be a alternative model...
+
+![:scale 60%](Figures/Doughnut-Economics.jpg)
+---
+class: middle, left
+background-image: url(Figures/Doughnut.png)
+background-position: right
+background-size: contain
+
+
+# Doughnut Economics
+
+- Need to a holistic view other than GDP growth
+- 'Sweet spot' between <br> minimal social requirements **AND** <br> Biophysical earth's boundaries.
+
+.footnote[Raworth, K. A Safe and Just Space for Humanity: Can We Live within the Doughnut? Oxfam: Oxford, UK, 2012.
+]
+
+---
+class: middle, left
+background-image: url(Figures/Doughnut-2.png)
+background-position: right
+background-size: contain
+
+
+# Doughnut Economics
+
+- Need to a holistic view other than GDP growth
+- Index to evaluate 
+
+.footnote[Raworth, K. A Safe and Just Space for Humanity: Can We Live within the Doughnut? Oxfam: Oxford, UK, 2012.
+]
+
+---
+# Doughnut Economics: .blue[Chile vs France]
+
+.center[![](Figures/Dona-Chile-France.png)]
+
+.footnote[O’Neill, D. W., Fanning, A. L., Lamb, W. F., & Steinberger, J. K. (2018). A good life for all within planetary boundaries. Nature sustainability, 1(2), 88-95. More details: https://goodlife.leeds.ac.uk .
+]
+
+---
+class: middle, left
+background-image: url(Figures/Planetary-boundaries-1.jpg)
+background-position: right
+background-size: contain
+
+# Doughnut Economics: <br> .blue[World]
+
+.pull-left[
+
+- Imagine a country that satisfy the basic needs:  a long, healthy, happy life. 
+
+- Now, imagine this same country can do this without while use natural ressources in a sustainable way 
+
+- What about if all countries would do the same
+
+]
+
+.footnote[O’Neill, D. W., Fanning, A. L., Lamb, W. F., & Steinberger, J. K. (2018). <br/>A good life for all within planetary boundaries. Nature sustainability, 1(2), 88-95.  <br>   https://goodlife.leeds.ac.uk 
+]
+
+---
+class: middle
+
+
+# How  Innovation Labs to mitigate climate change: .brand-blue[<ins>academy-industry partnerships</ins>] for success?
+
+---
+# Production and transfer knowledge
+
+.left-column[
+- Towards  a **Mode 3** for $21^{st}$ century
+]
+.right-column[
+![:scale 80%](Figures/Knowledge-modes.png)
+]
+
+.footnote[
+- Rayna, T., Striukova, L., 2020. Fostering skills for the 21st century: The role of Fab labs and makerspaces. Technol. Forecast. Soc. Change 120391. https://doi.org/10.1016/j.techfore.2020.120391
+- The New Production of Knowledge: The Dynamics of Science and Research in Contemporary Societies, 2010. . SAGE Publications Ltd, 1 Oliver’s Yard, 55 City Road, London EC1Y 1SP United Kingdom. https://doi.org/10.4135/9781446221853
+]
+
+
+
+---
+class: left
+background-image: url(Figures/Helix-5.svg)
+background-position: right
+background-size: contain
+
+# Quintuple Helix of Innovation
+
+.pull-left[
+- 
+]
+
+.footnote[
+- Carayannis, Elias G. and David F. J. Campbell. 2012. “Mode 3 Knowledge Production in Quadruple Helix Innovation Systems.” Pp. 1–63
+
+- Camargo, Morel, Lhoste. Progressive University Technology Transfer of Innovation Capabilities to SMEs: an Active and Modular Educational Partnership. New Perspectives in Technology Transfer (2020) 
+
+]
+
+
+---
+# The Fuzzy Front End of Innovation
+
+
+
+---
+# Early sustainable design
+
+.pull-left[
+
+]
+
+.pull-right[
+![:scale 80%](Figures/Sustainable-design.jpg)
+]
+
+.footnote[
+Martinez-Hernandez, E., 2017. Trends in sustainable process design—from molecular to global scales. Curr. Opin. Chem. Eng. 17, 35–41. <br/> https://doi.org/10.1016/j.coche.2017.05.005 
+]
+
+---
+class: middle
+
+# How .green[<ins>Innovation Labs</ins>] to mitigate climate change: academy-industry partnerships for success?
+
+---
+class: middle, right
+background-image: url(Figures/LF2L-2.jpg)
+background-position: left
+background-size: contain
+
+# Lorraine <br>Fab Living <br>Lab 
+
+---
+class: middle, right
+background-image: url(Figures/LF2L-Methodology.jpg)
+background-position: left
+background-size: contain
+
+# Lorraine <br>Fab Living <br>Lab 
+
+---
+
+class: middle, right
+background-image: url(Figures/LF2L-Technologies.jpg)
+background-position: left
+background-size: contain
+
+---
+class: middle, center
+
+![](Figures//Green-fablab.jpg)
+
+---
+
+## The problem: Plastic waste
+
+.pull-left[ 
+- US recycled less than 9% of its plastic waste.
+- EU, recycled about 30%. However, this number is what is collected, not from what is in circulation*. 
+- China’s ban on plastic trash
+- Plastic trash could top 13 billion tons by 2050
+- Economics of plastic recycling historically have been challenging
+- Little financial incentive to encourage consumers to recycle their own plastic waste
+
+## We barely recycle plastic!!.. 
+]
+
+
+.pull-right[ 
+![Plastic waste](https://images.unsplash.com/photo-1537084642907-629340c7e59c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80)
+]
+
+
+.footnote[
+*Kranzinger, L., Pomberger, R., Schwabl, D., Flachberger, H., Bauer, M., Lehner, M., Hofer, W., 2018. Output-oriented analysis of the wet mechanical processing of polyolefin-rich waste for feedstock recycling. Waste Manag. Res. 36, 445–453
+]
+
+
+---
+
+# Distributed recycling via additive manufacturing (DRAM)
+
+
+.pull-left[
+- Local closed loop
+- AM adds value
+- Small quantities 
+
+- Reduction of landfilling
+- Minimize the use of virgin materials
+
+![](Figures/Green-fablab-2.jpg)
+]
+.pull-right[
+
+![](http://lf2l.fr/assets/images/3-projects/gf/Logo-GF.png)
+
+![](Figures/Green-fablab-1.jpg)
+]
+
+
+---
+
+# Distributed recycling via additive manufacturing (DRAM)
+Technical system
+![](Figures/DRAM-00.png)
+
+---
+
+# Distributed recycling via additive manufacturing (DRAM)
+Technical system
+![](Figures/DRAM-01.png)
+
+---
+
+# Distributed recycling via additive manufacturing (DRAM)
+Technical system
+![](Figures/DRAM-02.png)
+
+---
+
+# Distributed recycling via additive manufacturing (DRAM)
+Technical system
+![](Figures/DRAM-03.png)
+
+---
+
+# Distributed recycling via additive manufacturing (DRAM)
+Technical system
+
+.center[![:scale 80%](Figures/DRAM-04.jpeg)]
+
+---
+
+# Distributed recycling via additive manufacturing (DRAM)
+Technical system
+
+.center[![:scale 80%](Figures/DRAM-05.png)]
+
+---
+
+# Distributed recycling via additive manufacturing (DRAM)
+
+Taking into account the environment and their ecosystem services (ES).
+
+.pull-left[
+![:scale 90%](Figures/Eco-Services-00.jpg)
+]
+
+--
+
+.pull-right[
+![](Figures/Eco-Services-01.png)
+
+- How the future recycling chain could be including the environment?
+]
+
+
+---
+
+# Distributed recycling via additive manufacturing (DRAM)
+
+Global system
+
+.pull-left[
+![](Figures/DRAM-07.png)
+]
+
+.pull-right[
+- Establish and evaluate scenarios in a systemic and dynamic way
+
+- Evaluate the influences of the main operating variables on the system
+
+- Taking into account the priorities of the multiple stakeholders
+
+- Facilitate your decision making public-private actors
+]
+.footnote[
+Santander, P., Cruz Sanchez, F.A., Boudaoud, H., Camargo, M., 2020. Closed loop supply chain network for local and distributed plastic recycling for 3D printing: a MILP-based optimization approach. Resour. Conserv. Recycl. 154, 104531. https://doi.org/10.1016/j.resconrec.2019.104531 
+]
+
+
+---
+class: middle, left
+background-image: url(Figures/educator.jpg)
+background-position: right
+background-size: contain
+
+# To conclude
+
+- An imperative to act now for the planet
+- Assuming our role from the university 
+- A holistic, systemic and interdisciplinary vision <br/> is necessary 
+- Technology must be considered in <br/> its socio-technical context
+- True interdisciplinarity is fundamental <br/>*(let's take the risk)*
+- Community integration is indispensable, <br/>it's about **co-building solutions**. 
+
+
+---
+class: middle, center
+
+# Thanks..
+
+### cruzsanc@univ-lorraine.fr
+
+
