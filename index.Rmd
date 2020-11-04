@@ -3,7 +3,7 @@ title: "The Green Fablab: Towards a distributed recycling paradigm"
 subtitle: "Engineering Connection Nov 4 / 2020"
 author: "**Fabio CRUZ**, Mauricio Camargo"
 institute: "ERPI <br/> Université de Lorraine "
-date: "2020/12/04"
+date: "Nov 04/2020"
 output:
   xaringan::moon_reader:
     #css: ["default", "assets/Fabio-fonts.css", "assets/Fabio.css"] "metropolis", "rladies-fonts",
