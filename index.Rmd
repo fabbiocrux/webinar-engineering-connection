@@ -440,6 +440,24 @@ Global system
 Santander, P., Cruz Sanchez, F.A., Boudaoud, H., Camargo, M., 2020. Closed loop supply chain network for local and distributed plastic recycling for 3D printing: a MILP-based optimization approach. Resour. Conserv. Recycl. 154, 104531. https://doi.org/10.1016/j.resconrec.2019.104531 
 ]
 
+---
+
+# the changing is starting
+
+
+Many exemples throughout the world
+
+.pull-left[![:scale 100%](Figures/quactus.png)
+
+Start-up Qactus form chile
+
+https://qactus.cl/
+
+] 
+
+.pull-right[
+![](Figures/initiatives.png)
+]
 
 ---
 class: middle, left
