@@ -17,9 +17,15 @@ output:
       beforeInit: "assets/macros.js"
 ---
 
-.center[![](Figures/Fabio.png)]
+.pull-left[
+![](Figures/nancy.png)
+]
 
-.center[![](https://erpi.univ-lorraine.fr/assets/images/logo-ERPI.svg)]
+.pull-right[
+![](Figures/Fabio.png)
+![](https://erpi.univ-lorraine.fr/assets/images/logo-ERPI.svg)
+]
+
 
 ???
 - Thank you for being connected and thank you for invitating me in these enginnering conection organized by the University.
