@@ -1,6 +1,6 @@
 ---
 title: "The Green Fablab: Towards a distributed recycling paradigm"
-subtitle: "Engineering Connection Nov 4 / 2020"
+subtitle: ".center[<img src='Figures/Logo-ec.png' width='auto' height='100px'>]"
 author: "**Fabio CRUZ**, Mauricio Camargo"
 institute: "ERPI <br/> Université de Lorraine "
 date: "Nov 04/2020"
@@ -17,6 +17,16 @@ output:
       beforeInit: "assets/macros.js"
 ---
 
+.center[![](Figures/Fabio.png)]
+
+.center[![](https://erpi.univ-lorraine.fr/assets/images/logo-ERPI.svg)]
+
+???
+- Thank you for being connected and thank you for invitating me in these enginnering conection organized by the University.
+- My name is Fabio Cruz. I’m researcher at the University of Lorraine. 
+
+
+---
 class: clear, center, middle
 
 # How Innovation Labs could help to mitigate .brand-red[climate change]: academy-industry partnerships for success?
@@ -25,8 +35,7 @@ class: clear, center, middle
 ??? 
 
 
-- Thank you for being connected and thank you for invitating me in these enginnering conection organized by the University.
-- My name is Fabio Cruz. I’m researcher at the University of Lorraine. 
+
 - In these fifteen minutes, my main point is to present some our our perspective of distributed recycling approach framed in the  the climate change issues
 
 
@@ -396,7 +405,7 @@ Technical system
 ---
 
 # Distributed recycling via additive manufacturing (DRAM)
-Technical system
+Technical system --> Global system
 
 .center[![:scale 80%](Figures/DRAM-05.png)]
 
@@ -444,7 +453,7 @@ Santander, P., Cruz Sanchez, F.A., Boudaoud, H., Camargo, M., 2020. Closed loop 
 
 ---
 
-# the changing is starting
+# the change is starting
 
 
 Many exemples throughout the world
@@ -475,6 +484,36 @@ background-size: contain
 - Technology must be considered in <br/> its socio-technical context
 - True interdisciplinarity is fundamental <br/>*(let's take the risk)*
 - Community integration is indispensable, <br/>it's about **co-building solutions**. 
+
+
+---
+
+class: middle, left
+background-image: url(Figures/Climatelabs.png)
+background-position: center
+background-size: contain
+
+
+
+---
+class: middle
+
+# EU projects 
+
+.pull-left[
+![:scale 70%](Figures/Smagrinet.png) 
+https://www.smagrinet.eu/
+
+![](Figures/digiterri.png)
+https://digiterri.eu/
+
+] 
+.pull-right[
+
+
+![:scale 100%](Figures/inedit.png)
+https://www.inedit-project.eu/
+]
 
 
 ---
