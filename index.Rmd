@@ -17,22 +17,40 @@ output:
       beforeInit: "assets/macros.js"
 ---
 
+??? 
+
+Good afternoon everybody
+- Thank you for being connected 
+- and thank you for invitating me in these enginnering conection organized by the University.
+
+- My name is Fabio Cruz. I’m researcher at the University of Lorraine. 
+- In these fifteen minutes, my main point is to present some our our perspective of distributed recycling approach framed in the  the climate change issues
+
+---
 class: clear, center, middle
 
-# How  Innovation Labs to mitigate .brand-red[climate change]: academy-industry partnerships for success?
+# How Innovation Labs could help to mitigate .brand-red[climate change]: academy-industry partnerships for success?
 
 ???
 
-- Let's begin with the first global challegne, Climate change
+- The global question the presentation is how innovation labs could help to mitigate climate change. 
+- from a perspective of academy-industry partnetships experiences
+
+- So let me begin very quickly to this climate change umbrella problem. 
 
 ---
-
 class: middle, left
 background-image: url(Figures/IPCC-Climate-change.jpeg)
 background-position: right
 background-size: contain
 
 # Societal Challegue <br>  Climate change 
+
+.footnote[Source: Intergovermental pannel on Climate change https://www.ipcc.ch/ ]
+
+???
+
+-  According to the Intergovermental pannel from 2018,  We know that climate change, and precisely, the effort to limite the temperature 1.5 degress is the main challengue. 
 
 
 ---
@@ -45,24 +63,36 @@ background-size: contain
 - 6000 scientific references
 - Awareness of the impact of human activity
 - With 2°C, many ecosystems (corals) will disappear
-- Limits to growth --> Earth's boundaries
+
+**We need to find ways for meeting  the needs of all people within the means (boundaries) of the living planet.** 
 ]]
 
 .right-column[
 .polaroid[ ![](Figures/IPCC-SPM-1.png) ]
  
 .footnote[Source: Intergovermental pannel on Climate change https://www.ipcc.ch/ ]
-
 ]
+
+???
+
+- an increase of the temperature beyond this value, could implicate tipping points for ecosystem, 
+- and these tipping points we don't know the impact in the global equilimbium between ecological systems and human systems. 
+
+- Two conclusion from these
+ - We need to find ways for meeting  the needs of all people within the means of the living planet. 
 
 
 ---
 class: middle, center
 
-# Can we continue in the same economic model ?
+# Can we continue in the same mental (economic) model ?
+
+
+???
+
+So the question is Can we continue in the same mental (economic) model ?
 
 ---
-
 class: middle, left
 background-image: url(Figures/Emissions-by-sector.png)
 background-position: right
@@ -72,22 +102,27 @@ background-size: contain
 ## Where do global <br> greenhouse gas <br> emissions come from?
 
 - Towards a neutral climate 
-
 - Improvements in sector sector counts
 
 
+???
+
+- And what I mean by that is the linear approach for. 
+
 ---
 ## We need to reframe a new model!  `r icon::fa("exclamation-triangle", pull = "right")`
-
 ![linear-economy](Figures/linear-economy.png)
+???
+
 
 ---
-
 class: middle, left
 
 ## Intensive research on what could be a alternative model...
 
 ![:scale 60%](Figures/Doughnut-Economics.jpg)
+
+
 ---
 class: middle, left
 background-image: url(Figures/Doughnut.png)
