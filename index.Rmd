@@ -244,7 +244,8 @@ background-size: contain
 # Quintuple Helix of Innovation
 
 .pull-left[
-- 
+-  The Quintuple Helix Model demonstrates that an investment in knowledge and a
+promotion of knowledge-production brings into play new and crucial impulses for innovation, know-how and the advancement of society. 
 ]
 
 .footnote[
