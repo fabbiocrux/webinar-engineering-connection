@@ -1,9 +1,9 @@
 ---
 title: "The Green Fablab: Towards a distributed recycling paradigm"
-subtitle: "Engineering Connection Nov 4 / 2020"
+subtitle: ".center[<img src='Figures/Logo-ec.png' width='auto' height='100px'>]"
 author: "**Fabio CRUZ**, Mauricio Camargo"
 institute: "ERPI <br/> Université de Lorraine "
-date: "2020/12/04"
+date: "Nov 04/2020"
 output:
   xaringan::moon_reader:
     #css: ["default", "assets/Fabio-fonts.css", "assets/Fabio.css"] "metropolis", "rladies-fonts",
@@ -17,22 +17,52 @@ output:
       beforeInit: "assets/macros.js"
 ---
 
-class: clear, center, middle
+.pull-left[
+![](Figures/nancy.png)
+]
 
-# How  Innovation Labs to mitigate .brand-red[climate change]: academy-industry partnerships for success?
+.pull-right[
+![](Figures/Fabio.png)
+![](https://erpi.univ-lorraine.fr/assets/images/logo-ERPI.svg)
+]
+
 
 ???
+- Thank you for being connected and thank you for invitating me in these enginnering conection organized by the University.
+- My name is Fabio Cruz. I’m researcher at the University of Lorraine. 
 
-- Let's begin with the first global challegne, Climate change
 
 ---
+class: clear, center, middle
 
+# How Innovation Labs could help to mitigate .brand-red[climate change]: academy-industry partnerships for success?
+
+???
+??? 
+
+
+
+- In these fifteen minutes, my main point is to present some our our perspective of distributed recycling approach framed in the  the climate change issues
+
+
+- The global question the presentation is how innovation labs could help to mitigate climate change. 
+- from a perspective of academy-industry partnetships experiences
+
+- So let me begin very quickly to this climate change umbrella problem. 
+
+---
 class: middle, left
 background-image: url(Figures/IPCC-Climate-change.jpeg)
 background-position: right
 background-size: contain
 
 # Societal Challegue <br>  Climate change 
+
+.footnote[Source: Intergovermental pannel on Climate change https://www.ipcc.ch/ ]
+
+???
+
+-  According to the Intergovermental pannel from 2018,  We know that climate change, and precisely, the effort to limite the temperature 1.5 degress is the main challengue. 
 
 
 ---
@@ -45,24 +75,42 @@ background-size: contain
 - 6000 scientific references
 - Awareness of the impact of human activity
 - With 2°C, many ecosystems (corals) will disappear
-- Limits to growth --> Earth's boundaries
+
+**We need to find ways for meeting  the needs of all people within the means (boundaries) of the living planet.** 
 ]]
 
 .right-column[
 .polaroid[ ![](Figures/IPCC-SPM-1.png) ]
  
 .footnote[Source: Intergovermental pannel on Climate change https://www.ipcc.ch/ ]
-
 ]
+
+???
+
+- an increase of the temperature beyond this value, could implicate tipping points for ecosystem, 
+- and these tipping points we don't know the impact in the global equilimbium between ecological systems and human systems. 
+
+- Two conclusion from these
+ - We need to find ways for meeting  the needs of all people within the means of the living planet. 
 
 
 ---
 class: middle, center
 
-# Can we continue in the same economic model ?
+# Can we continue in the same mental (economic) model ?
+
+
+???
+
+So the question is Can we continue in the same mental (economic) model ?
 
 ---
+## We need to reframe a new model!  `r icon::fa("exclamation-triangle", pull = "right")`
+![linear-economy](Figures/linear-economy.png)
+???
 
+
+---
 class: middle, left
 background-image: url(Figures/Emissions-by-sector.png)
 background-position: right
@@ -72,22 +120,34 @@ background-size: contain
 ## Where do global <br> greenhouse gas <br> emissions come from?
 
 - Towards a neutral climate 
-
 - Improvements in sector sector counts
 
 
+???
+
+- And what I mean by that is the linear approach for. 
+
+
 ---
-## We need to reframe a new model!  `r icon::fa("exclamation-triangle", pull = "right")`
-
-![linear-economy](Figures/linear-economy.png)
-
----
-
 class: middle, left
+background-image: url(Figures/Doughnut-Economics.jpg)
+background-position: right
+background-size: contain
 
-## Intensive research on what could be a alternative model...
+## Intensive research on <br> what could be an <br> alternative model...
 
-![:scale 60%](Figures/Doughnut-Economics.jpg)
+.pull-left[
+.tiny[Calisto Friant, M., Vermeulen, W.J.V., <br> Salomone, R., 2020. A typology of circular economy discourses: <br> Navigating the diverse visions of a contested paradigm.<br> Resour. Conserv. Recycl. 161, 104917. https://doi.org/10.1016/j.resconrec.2020.104917
+]]
+
+
+???
+
+- There have been enourmes research on discourse of a circular econmy. 
+- Which it would take many day to get in detail.
+
+- What I want to focus is one approach that we found very holistic and systemics
+
 ---
 class: middle, left
 background-image: url(Figures/Doughnut.png)
@@ -113,10 +173,16 @@ background-size: contain
 # Doughnut Economics
 
 - Need to a holistic view other than GDP growth
-- Index to evaluate 
+- 'Sweet spot' between <br> minimal social requirements **AND** <br> Biophysical earth's boundaries.
+- Many index to evaluate for a country.
 
 .footnote[Raworth, K. A Safe and Just Space for Humanity: Can We Live within the Doughnut? Oxfam: Oxford, UK, 2012.
 ]
+
+
+???
+
+- This approach is called Doughnut Economics proposed by the researcher Kate Raworth from Oxford and Cambrigde
 
 ---
 # Doughnut Economics: .blue[Chile vs France]
@@ -150,8 +216,14 @@ background-size: contain
 ---
 class: middle
 
-
 # How  Innovation Labs to mitigate climate change: .brand-blue[<ins>academy-industry partnerships</ins>] for success?
+
+
+???
+
+- Going back to our initial question, I would like to frame your attention in this notion of
+- academy-industry partnership
+- and more important, the role that Universities can play given this big issue of climate change
 
 ---
 # Production and transfer knowledge
@@ -168,7 +240,15 @@ class: middle
 - The New Production of Knowledge: The Dynamics of Science and Research in Contemporary Societies, 2010. . SAGE Publications Ltd, 1 Oliver’s Yard, 55 City Road, London EC1Y 1SP United Kingdom. https://doi.org/10.4135/9781446221853
 ]
 
+???
 
+- We know from the literature, we have globally thre modes of production and transfer knowledge. 
+- Mode 1
+- Mode 2
+- What we neet for wicked and systematic problems, is mode 3
+  - Knowlede innovation mode (open innovation, and co-creation)
+  - To integrate the community
+  - We create together with users, the knowledge 
 
 ---
 class: left
@@ -179,7 +259,9 @@ background-size: contain
 # Quintuple Helix of Innovation
 
 .pull-left[
-- 
+
+-  The Quintuple Helix Model demonstrates that an investment in knowledge and a
+promotion of knowledge-production brings into play new and crucial impulses for innovation, know-how and the advancement of society. 
 ]
 
 .footnote[
@@ -191,19 +273,17 @@ background-size: contain
 
 
 ---
-# The Fuzzy Front End of Innovation
+# The Fuzzy-front End of Innovation
 
 
-
----
-# Early sustainable design
 
 .pull-left[
+![:scale 100%](Figures/Fuzzy-front.png)
 
+- Think early in thesustainable design and their impact
 ]
-
 .pull-right[
-![:scale 80%](Figures/Sustainable-design.jpg)
+![:scale 60%](Figures/Sustainable-design.jpg)
 ]
 
 .footnote[
@@ -223,6 +303,8 @@ background-size: contain
 
 # Lorraine <br>Fab Living <br>Lab 
 
+http://lf2l.fr/ 
+
 ---
 class: middle, right
 background-image: url(Figures/LF2L-Methodology.jpg)
@@ -231,6 +313,7 @@ background-size: contain
 
 # Lorraine <br>Fab Living <br>Lab 
 
+http://lf2l.fr/
 ---
 
 class: middle, right
@@ -289,6 +372,8 @@ class: middle, center
 ![](http://lf2l.fr/assets/images/3-projects/gf/Logo-GF.png)
 
 ![](Figures/Green-fablab-1.jpg)
+
+http://lf2l.fr/projects/green-fablab
 ]
 
 
@@ -326,7 +411,7 @@ Technical system
 ---
 
 # Distributed recycling via additive manufacturing (DRAM)
-Technical system
+Technical system --> Global system
 
 .center[![:scale 80%](Figures/DRAM-05.png)]
 
@@ -372,6 +457,24 @@ Global system
 Santander, P., Cruz Sanchez, F.A., Boudaoud, H., Camargo, M., 2020. Closed loop supply chain network for local and distributed plastic recycling for 3D printing: a MILP-based optimization approach. Resour. Conserv. Recycl. 154, 104531. https://doi.org/10.1016/j.resconrec.2019.104531 
 ]
 
+---
+
+# the change is starting
+
+
+Many exemples throughout the world
+
+.pull-left[![:scale 100%](Figures/quactus.png)
+
+Start-up Qactus form chile
+
+https://qactus.cl/
+
+] 
+
+.pull-right[
+![](Figures/initiatives.png)
+]
 
 ---
 class: middle, left
@@ -387,6 +490,36 @@ background-size: contain
 - Technology must be considered in <br/> its socio-technical context
 - True interdisciplinarity is fundamental <br/>*(let's take the risk)*
 - Community integration is indispensable, <br/>it's about **co-building solutions**. 
+
+
+---
+
+class: middle, left
+background-image: url(Figures/Climatelabs.png)
+background-position: center
+background-size: contain
+
+
+
+---
+class: middle
+
+# EU projects 
+
+.pull-left[
+![:scale 70%](Figures/Smagrinet.png) 
+https://www.smagrinet.eu/
+
+![](Figures/digiterri.png)
+https://digiterri.eu/
+
+] 
+.pull-right[
+
+
+![:scale 100%](Figures/inedit.png)
+https://www.inedit-project.eu/
+]
 
 
 ---
